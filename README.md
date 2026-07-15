@@ -6,7 +6,7 @@
 
 | 平台 | 客服 ID | 
 |---|---|
-| **Telegram** | t.me/WestCoastSIM 或 TG 里搜 @WestCoastSIM | 
+| **Telegram** | [https://t.me/WestCoastSIM](https://t.me/WestCoastSIM) 或 TG 里搜 @WestCoastSIM | 
 
 ## 实体 SIM 卡
 
